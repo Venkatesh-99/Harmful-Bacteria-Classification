@@ -49,8 +49,7 @@ pip install pandas matplotlib seaborn scikit-learn xgboost
 4. Follow the notebook instructions:
     - Load and preprocess the dataset (bacteria_list_200.csv).
     - Explore data insights and visualizations, such as pie charts and heatmaps.
-    - Implement machine learning models including Random Forest, AdaBoost, Gradient Boosting, 
-    - Logistic Regression, SVM, and XGBoost.
+    - Implement machine learning models including Random Forest, AdaBoost, Gradient Boosting, Logistic Regression, SVM, and XGBoost.
     - Evaluate model performance using metrics like accuracy, confusion matrices, and ROC curves.
     - Customize and adapt the notebook for further analysis or experimentation.
 
